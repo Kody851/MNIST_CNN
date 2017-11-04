@@ -20,7 +20,7 @@
     https://github.com/wagonhelm/NaNmnist
 
     （caffe实现）：
-
+    http://blog.csdn.net/tianrolin/article/details/53542050
     ​
 
     ![Example.png](https://github.com/Kody851/MNIST_CNN/blob/master/Example.png)
