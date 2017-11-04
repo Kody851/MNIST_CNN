@@ -23,7 +23,7 @@
 
     ​
 
-    ![QQ截图20171104234610](C:\Users\Administrator\Desktop\FIT-Act\QQ截图20171104234610.png)
+    ![Example.png](https://github.com/Kody851/MNIST_CNN/blob/master/Example.png)
 
   ## 3、convolution kernel 的可视化
 
