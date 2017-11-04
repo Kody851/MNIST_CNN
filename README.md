@@ -1,2 +1,0 @@
-# MNIST_CNN
-简单的CNN实现MNIST
