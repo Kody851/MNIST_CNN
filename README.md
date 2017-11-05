@@ -13,8 +13,11 @@
 * 测试集上准确率为0.9931
 * 找出分错的样例
 https://www.oreilly.com.cn/ideas/?p=838
+
 https://github.com/wagonhelm/NaNmnist
+
 （caffe实现）：http://blog.csdn.net/tianrolin/article/details/53542050
+
 ![Example.png](https://github.com/Kody851/MNIST_CNN/blob/master/Example.png)
 
 ## 3、convolution kernel 的可视化
