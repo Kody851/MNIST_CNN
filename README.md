@@ -24,6 +24,7 @@ https://github.com/wagonhelm/NaNmnist
 ## 3、convolution kernel 的可视化
 使用 Tensorboard
  
+ 
 pycharm报错 ：
 
 2017-11-05 02:36:20.515076: I tensorflow/stream_executor/dso_loader.cc:129] Couldn't open CUDA library libcupti.so.8.0. LD_LIBRARY_PATH: 
